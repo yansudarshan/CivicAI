@@ -1,10 +1,17 @@
 fastapi>=0.115,<1
 uvicorn[standard]>=0.34,<1
+
 pydantic>=2.10,<3
 pydantic-settings>=2.7,<3
+email-validator>=2.2,<3
+
 python-multipart>=0.0.20,<1
+
 pymongo>=4.15,<5
+
 PyJWT>=2.10,<3
 pwdlib[argon2]>=0.2,<1
+
 openai>=2.0,<3
+
 langgraph>=1.0,<2
